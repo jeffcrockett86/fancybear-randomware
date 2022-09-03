@@ -1,1 +1,3 @@
-fAncyBear RandomWare. lol so random. import random
+MAGA IS DEAD
+
+OPERATION JUPITER SPEAR HAS BEGUN
