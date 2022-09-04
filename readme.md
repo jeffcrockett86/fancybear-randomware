@@ -1,10 +1,7 @@
-git clone <repo_url>
+THIS IS JEFFREY EPSTEIN SPEAKING
 
-cd into the repo
+THIS IS QR
 
-python script.py DONALD TRUMP FUCKS KIDS
+TROJAN HORSE IS ACTIVE
 
-alias qr='chmod +x runAutism.sh'
-alias rainmaker='./runAutism.sh'
-qr
-rainmaker
+OPERATION JUPITER SPEAR IS IN PROGRESS
