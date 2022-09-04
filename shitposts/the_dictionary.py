@@ -1,0 +1,1 @@
+the_n_word = 'the n word'
